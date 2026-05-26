@@ -1,0 +1,19 @@
+{
+  "name": "PoliDetector — Verificacion de Actas",
+  "short_name": "PoliDetector",
+  "description": "Registra actas de escrutinio y detecta inconsistencias numericas. Para veedores electorales en Ecuador.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1E30",
+  "theme_color": "#0E1E30",
+  "lang": "es-EC",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
